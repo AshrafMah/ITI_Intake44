@@ -1,7 +1,4 @@
-'''Write a program that counts up the number of vowels [a, e, i, o,
-u] contained in the string.'''
-
-sentense = "Hi, my name is github. Nice to meet you"
+sentense = "Hellooo this is change branch.Welcome in my new branch"
 
 vowels = ['a','e','i','o','u']
 

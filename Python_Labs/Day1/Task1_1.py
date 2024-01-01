@@ -1,7 +1,7 @@
 '''Write a program that counts up the number of vowels [a, e, i, o,
 u] contained in the string.'''
 
-sentense = "Hi, my name is Ashraf. Nice to meet you"
+sentense = "Hi, my name is github. Nice to meet you"
 
 vowels = ['a','e','i','o','u']
 
